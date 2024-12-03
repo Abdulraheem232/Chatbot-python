@@ -1,6 +1,4 @@
-Here’s an example of a `README.md` file for your Flet-based chatbot app, which also highlights its compatibility and UI features:
 
-```markdown
 # My Chatbot 2.0
 
 This is a chatbot built with **Flet**, an easy-to-use framework for creating modern, cross-platform apps with Python. The chatbot uses Google's generative AI model (Gemini 1.5) to generate responses based on user input.
