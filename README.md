@@ -74,14 +74,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions or feedback, feel free to open an issue or reach out to me via email abdulraheemabdullah859@gmail.com or kamran1513@gmail.com.
-
-```
-
-### Key points highlighted in the README:
-
-- **Flet compatibility**: Emphasizing that the app is built using the Flet framework, which supports multiple platforms including Linux, macOS, Windows, iOS, and Android.
-- **Generative AI integration**: The app uses Google’s generative AI model to provide responses.
-- **UI design**: Clean and modern user interface with light and dark mode support.
-- **Installation and setup instructions**: Step-by-step guide to running the app locally, including installing dependencies and setting up API keys.
-
-This README will help users and developers understand how to set up and run your chatbot app while also highlighting the key features of the framework and its cross-platform support.
