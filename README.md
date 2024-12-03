@@ -5,7 +5,7 @@ This is a chatbot built with **Flet**, an easy-to-use framework for creating mod
 
 ## Features
 
-- **Cross-platform support**: Works seamlessly on Linux, macOS, Windows, iOS, and Android.
+- **Cross-platform support**: Works seamlessly on Web, Linux, macOS, Windows, iOS, and Android.
 - **Generative AI**: Powered by Google's **Gemini-1.5-flash-002** model to create AI-driven chatbot interactions.
 - **Modern UI**: Clean, responsive user interface built with Flet for an enhanced user experience.
 - **Dark Mode Support**: Toggle between light and dark themes for improved usability.
