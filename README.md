@@ -54,6 +54,7 @@ This app is fully compatible with:
 - **Windows**
 - **iOS**
 - **Android**
+- **Web**
 
 With Flet’s cross-platform capabilities, you can run this app on virtually any platform, ensuring a consistent user experience.
 
